@@ -9,6 +9,7 @@ def find_element_index(array, value_to_find)
       index+=1
   end
   
-  #This is the fast way using the built in me
+  #This is the fast way using the built in method .index
+  #array.index(value_to_find)
   
 end
