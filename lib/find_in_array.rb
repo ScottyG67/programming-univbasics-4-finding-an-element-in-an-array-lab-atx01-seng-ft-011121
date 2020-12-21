@@ -8,6 +8,7 @@ def find_element_index(array, value_to_find)
       binding.pry
       return count
     end
+    binding.pry
       count+=1
   end
 end
